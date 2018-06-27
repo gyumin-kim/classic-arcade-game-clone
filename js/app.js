@@ -50,7 +50,7 @@ Enemy.prototype.render = function() {
 // This class requires an update(), render(), and a handleInput() method.
 const Player = function(x, y) {
     // Loading the image
-    this.sprite = 'images/char-boy.png';
+    this.sprite = 'images/char-horn-girl.png';
 
     // Setting the Player initial location
     this.x = x;
