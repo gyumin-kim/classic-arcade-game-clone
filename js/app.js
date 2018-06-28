@@ -1,3 +1,4 @@
+'use strict';
 // <<<<<<<<<<<<<<<<<<<<<<<< ENEMY >>>>>>>>>>>>>>>>>>>>>>>>
 // Enemies our player must avoid
 const Enemy = function(x, y, speed) {
